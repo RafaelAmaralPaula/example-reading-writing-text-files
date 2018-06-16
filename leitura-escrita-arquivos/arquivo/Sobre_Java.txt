@@ -1,0 +1,43 @@
+									
+							
+																			
+						
+
+	- INTRODUÇÃO AO JAVA 
+          
+           = Nascimento da Linguagem   
+	  
+          -> Java é uma linguagem de plataforma computacional ,"James Gosling" criador da Linguagem Java,criada 1992
+	  -> Objetivo : Melhorar interação usuários com páginas web.
+          -> Em 2009 foi vendido Sun Microsystems para Oracle por alguns milhões.
+          -> Duke: Mascote do Java
+
+
+           = Características 
+	   
+            -> Multiplataforma
+	    "Wora = Write Once , Run Everywere"
+            -> Comunidade Bem Ativa de Desenvolvedores
+	    -> Possii diversos Recursos
+	    -> OPP : Orientada Objetos
+            -> Performace:É muito Rápido , e vem evoluindo cada dia= "Java é lento porque a execução do programa é interpretada".
+
+           
+           = Preocesso de Criação de Programas
+               
+             -> código fonte -> compilar(linguagem de Máquina = processador Intepretar) -> coloca programa para roda, e o sistem operacional aloca programa no precessador
+	     -> Bytecode : É uma Linguagem Intermediario , Submetido a execução na Jvm(Java Virtual Machine).
+             -> Jvm ambiente de execução = ela possui coletor lixo, segurança cria uma camada em volta do programa , compilador , intepreta o BYTECODE.
+
+	 = "Sabores" do Java 
+
+           -> Jse = (Java Standard Edition) Base do Java , Aplicações desktop
+           -> Jee = (Java Enterprise Edition)Aplicação para Web , Contém Jse
+           -> Jme = (Java Micro Edition) = Aplicações para dispositivos limitados
+
+
+		JKD X JREE
+
+
+                JRE = Ambiente de Execução Java (Java RunTime Enviropement) 
+                JDK = Kit desenvolvimento Java(Java Development Kit)
